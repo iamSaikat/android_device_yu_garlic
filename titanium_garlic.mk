@@ -34,6 +34,7 @@ PRODUCT_NAME := titanium_garlic
 PRODUCT_BRAND := yu
 PRODUCT_MODEL := YU Yureka Black
 PRODUCT_MANUFACTURER := yu
+TITANIUM_BUILDTYPE := Official
 
 PRODUCT_GMS_CLIENTID_BASE := android-yu
 
